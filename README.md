@@ -1,2 +1,2 @@
 # fcc.webdev
-Code sample created at the Free Code Camp web dev course
+Code samples created at the Free Code Camp web dev course
